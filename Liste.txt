@@ -1,0 +1,13 @@
+Code: Yuma Rösner
+- Main erstellen(Objekt Taskmanager erstellen)
+- Taskmanager erstellen(Tasks hinzufügen, generelle Tasks anzeigen, erledigte Tasks anzeigen und makieren falls erledigt)
+- Task erstellen(überprüfung)
+Kommentieren vom Code: Silas Hüfken
+- Repository hinzufügen
+- Kommentare erstellen 
+- Generell herausfinden, wie man in Git Sachen hochlädt ohne Fehler
+Schriftliches: Anastasia Melzer
+- Dokummentation ertsellen
+- Liste.txt erstellen
+- Tools.txt erstellen
+- Klassendiagramm erstellen
